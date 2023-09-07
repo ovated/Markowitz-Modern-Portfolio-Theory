@@ -10,4 +10,4 @@ The dataset used in this project features stocks from the S&P 500, scraped using
 
 ### Objective
 
-Develop a Python-based portfolio optimization project leveraging Markowitz's Modern Portfolio Theory. Focus on technology stocks within the S&P 500 index.
+Develop a Python-based portfolio optimization project leveraging Markowitz's Modern Portfolio Theory.
